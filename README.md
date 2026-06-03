@@ -1,6 +1,6 @@
 # Hi there, I'm Nick Peril
 
-**Aspiring Data Analyst & Cloud Professional**  
+**Data Analyst & Cloud Professional**  
 Stamford, Connecticut  
 Fellow at The Knowledge House - Data Analytics Track  
 AWS Certified Cloud Practitioner
@@ -9,7 +9,7 @@ AWS Certified Cloud Practitioner
 
 ## About Me
 
-I'm transitioning into tech with a focus on data analytics, cloud computing, business intelligence, and data visualization.
+I'm transitioning into tech with a focus on data analytics, cloud computing, business intelligence, and data visualization. I also explore web development and enjoy creating modern, responsive websites using AI.
 
 I enjoy building projects that turn raw data into meaningful insights and creating practical tech solutions that help businesses and people make better decisions.
 
