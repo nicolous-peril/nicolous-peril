@@ -80,9 +80,11 @@ Business website project with a product catalog and responsive UI.
 
 ## GitHub Stats
 
-![Nick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolous-peril&show_icons=true)
+![Nick's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicolous-peril&theme=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolous-peril&layout=compact)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicolous-peril&theme=github)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolous-peril&theme=github)
 
 ---
 
