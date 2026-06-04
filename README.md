@@ -3,13 +3,13 @@
 **Data Analyst | SQL, Python, Tableau, and Business Intelligence**  
 Stamford, Connecticut  
 Fellow at The Knowledge House - Data Analytics Track  
-AWS Certified Cloud Practitioner
+AWS Certified Cloud Practitioner - supporting cloud foundation
 
 ---
 
 ## About Me
 
-I'm a data analyst focused on turning messy datasets into clear, decision-ready insights. My work centers on exploratory data analysis, SQL querying, dashboard development, data storytelling, and practical machine learning.
+I'm a data analyst focused on turning complex datasets into clear, decision-ready insights. My work centers on exploratory data analysis, SQL querying, dashboard development, data storytelling, and practical machine learning.
 
 I build projects that show the full analysis workflow: cleaning data, finding patterns, validating assumptions, visualizing results, and communicating recommendations in a way stakeholders can act on. I also bring a working knowledge of AWS, DevOps, and web development as supporting skills for deploying and presenting data-driven solutions.
 
