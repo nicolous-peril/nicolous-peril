@@ -1,6 +1,6 @@
 # Hi there, I'm Nick Peril
 
-**Aspiring Data Analyst & Cloud Professional**  
+**Data Analyst | SQL, Python, Tableau, and Business Intelligence**  
 Stamford, Connecticut  
 Fellow at The Knowledge House - Data Analytics Track  
 AWS Certified Cloud Practitioner
@@ -9,9 +9,9 @@ AWS Certified Cloud Practitioner
 
 ## About Me
 
-I'm transitioning into tech with a focus on data analytics, cloud computing, business intelligence, and data visualization.
+I'm a data analyst focused on turning messy datasets into clear, decision-ready insights. My work centers on exploratory data analysis, SQL querying, dashboard development, data storytelling, and practical machine learning.
 
-I enjoy building projects that turn raw data into meaningful insights and creating practical tech solutions that help businesses and people make better decisions.
+I build projects that show the full analysis workflow: cleaning data, finding patterns, validating assumptions, visualizing results, and communicating recommendations in a way stakeholders can act on. I also bring a working knowledge of AWS, DevOps, and web development as supporting skills for deploying and presenting data-driven solutions.
 
 ---
 
@@ -33,7 +33,7 @@ I enjoy building projects that turn raw data into meaningful insights and creati
 - Tableau
 - Excel
 
-### Cloud & DevOps
+### Supporting Technical Skills
 
 ![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?logo=amazonec2&logoColor=white)
@@ -55,26 +55,27 @@ I enjoy building projects that turn raw data into meaningful insights and creati
 
 ## Current Focus
 
-- Building data analytics portfolio projects
-- Improving SQL and Python skills
-- Creating Tableau dashboards
-- Learning data engineering concepts
+- Building job-ready data analytics portfolio projects
+- Strengthening SQL, Python, and statistical analysis skills
+- Creating Tableau dashboards that communicate business insights
+- Practicing machine learning workflows for applied analytics problems
+- Using cloud and web tools to support data project delivery
 
 ---
 
 ## Featured Projects
 
-### Superstore Sales Analysis
+### [Financial Fraud Analysis](https://github.com/nicolous-peril/financial-fraud-analysis)
 
-Analyzed sales and profitability trends using Python and Tableau.
+Supervised machine learning project analyzing financial transaction data to detect fraud. Includes exploratory data analysis, preprocessing, model tuning, and F1-score evaluation.
 
-### AWS DevOps Projects
+### [Superstore Sales & Profit Dashboard](https://github.com/nicolous-peril/superstore-dashboard)
 
-Hands-on projects using CodePipeline, CodeBuild, Terraform, and Elastic Beanstalk.
+Analyzed sales, profit, category performance, and regional trends to identify business insights using Python and Tableau.
 
-### Parrilla Meat Shop Website
+### [Amazon Lex Chatbot](https://github.com/nicolous-peril/aws-lex-chatbot)
 
-Business website project with a product catalog and responsive UI.
+Built a conversational chatbot with Amazon Lex, demonstrating how cloud tools can support interactive data and business workflows.
 
 ---
 
